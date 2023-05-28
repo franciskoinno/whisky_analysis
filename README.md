@@ -1,5 +1,6 @@
 # whisky_analysis
-A data analyst project for whisky. Using python to extract data and do Hypothesis Testing. Visualize data by python maltplotlib and Tableau. Aim to get insight from the data.
+A data analyst project for whisky. Using python to extract data and do Hypothesis Testing. Visualize data by python maltplotlib and Tableau. Aim to get insight from the dataset.<br>
+2,2k+ Scotch Whisky Reviews dataset (https://www.kaggle.com/datasets/koki25ando/22000-scotch-whisky-reviews)
 
 ## Goals
 1. Find people usually like which flavor in whisky.
