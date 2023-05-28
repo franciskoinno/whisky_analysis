@@ -5,7 +5,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 
 ## Goals
 1. Find people like which flavors in whisky.
-2. Find how regions affect the price and taste of whisky
+2. Find how regions affect the taste of whisky
 
 ## Extract data (details refer to jupyter notebbok)
 1. Read csv by excel to check the information of the data
@@ -23,15 +23,20 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 ![工作表 4](https://github.com/franciskoinno/whisky_analysis/assets/77004397/8c78015b-2dc3-426e-98df-fca82b1fa56c)
 <img src="https://github.com/franciskoinno/whisky_analysis/assets/77004397/d888a1ae-eaa7-42eb-98df-8030d234ac4c" width="600" height="400">
 
-From the graph above, we can notice that some floral present more frequent in specific region and some less.<br>
-If higher than 0.4, we defined it as frequently present. <br>
-If lower than 0.05, we defined it as rarely present. <br>
-
 ## Findings
 From t-test:<br>
 The flavor that got a higher review points: ['fruit', 'honey', 'peat', 'smok', 'citrus', 'raisin', 'deep', 'complex', 'cinnamon', 'caramel', 'pepper', 'leather', 'chocolate']<br>
 The flavor that got a lower review points: ['malt']<br>
 
 From graph:<br>
+From the graph above, we can notice that some floral present more frequent in specific region and some less.<br>
+If higher than 0.4, we defined it as frequently present. <br>
+If lower than 0.05, we defined it as rarely present. <br>
+Campbeltown: frequent:['fruit','nut','vanilla'] , rare:['deep','floral']
+Highland: frequent:['fruit','vanilla'] , rare:['deep']
+Island: frequent:['fruit','peat','smoke','sweet','vanilla'] , rare:['deep',raisin]
+Islay: frequent:['fruit','peat','smoke','sweet'] , rare:['cinnamon','deep','floral']
+Lowland: frequent:['fruit','sweet','vanilla'] , rare:['peat','smoke']
+Speyside: frequent:['fruit'] , rare:[]
 
 ## Insight
