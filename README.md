@@ -19,6 +19,8 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 
 ## Visualization
 ![工作表 4](https://github.com/franciskoinno/whisky_analysis/assets/77004397/8c78015b-2dc3-426e-98df-fca82b1fa56c)
+![工作表 1](https://github.com/franciskoinno/whisky_analysis/assets/77004397/d888a1ae-eaa7-42eb-98df-8030d234ac4c)
+
 From the graph above, we can notice that some floral present more frequent in specific region and some less.<br>
 If higher than 0.4, we defined it as frequently present. <br>
 If lower than 0.05, we defined it as rarely present. <br>
