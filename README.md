@@ -3,7 +3,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 2,2k+ Scotch Whisky Reviews dataset (https://www.kaggle.com/datasets/koki25ando/22000-scotch-whisky-reviews)
 
 ## Goals
-1. Find people usually like which flavor in whisky.
+1. Find people like which flavors in whisky.
 2. Find how regions affect the price and taste of whisky
 
 ## Extract data (details refer to jupyter notebbok)
