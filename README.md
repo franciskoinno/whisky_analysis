@@ -49,5 +49,5 @@ Lowland is the lowest.<br>
 ## Insight
 People can have a higher chance to find a more tasty whisky by the whisky region and the flavors in the tasting notes. And find the flavor that they want based on the region.
 
-##Recommandation System for similar flavor
+## Recommandation System for similar flavor
 ![image](https://github.com/franciskoinno/whisky_analysis/assets/77004397/94397880-8e1c-45ac-8cce-b75f8721eb82)
