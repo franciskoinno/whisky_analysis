@@ -15,10 +15,19 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 ## Exploratory Data Analysis
 1. T-test (details refer to jupyter notebbok)
 2. MANOVA
-3. Find insight by visualization
+3. Find insight by graphical methods
 
 ## Visualization
 ![工作表 4](https://github.com/franciskoinno/whisky_analysis/assets/77004397/8c78015b-2dc3-426e-98df-fca82b1fa56c)
 From the graph above, we can notice that some floral present more frequent in specific region and some less.
 If higher than 0.4, we defined it as frequently present. 
 If lower than 0.05, we defined it as rarely present. 
+
+## Findings
+From t-test:
+The flavor that got a higher review points: ['fruit', 'honey', 'peat', 'smok', 'citrus', 'raisin', 'deep', 'complex', 'cinnamon', 'caramel', 'pepper', 'leather', 'chocolate']
+The flavor that got a lower review points: ['malt']
+
+From graph:
+
+## Insight
