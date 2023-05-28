@@ -40,8 +40,8 @@ Lowland: frequent:['fruit','sweet','vanilla'] , rare:['peat','smoke']
 Speyside: frequent:['fruit'] , rare:[]
 <br><br>
 From second graph:<br>
-Island and Islay got higher review points.
-Lowland is lowest.
+Island and Islay got higher review points.<br>
+Lowland is lowest.<br>
 
 ## Insight
 People can have a higher chance to find a more tasty whisky by the whisky region and the flavors in the tasting notes.
