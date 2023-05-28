@@ -19,7 +19,8 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 <img src="https://github.com/franciskoinno/whisky_analysis/assets/77004397/55225771-cccf-4b16-a9ec-b77aa40e1880" width="500" height="300">
 <br>
 2. MANOVA<br>
-3. Find insight by graphical methods
+3. T-SNE
+4. Find insight by graphical methods
 
 ## Visualization
 ![工作表 4](https://github.com/franciskoinno/whisky_analysis/assets/77004397/8c78015b-2dc3-426e-98df-fca82b1fa56c)
@@ -47,3 +48,6 @@ Lowland is the lowest.<br>
 
 ## Insight
 People can have a higher chance to find a more tasty whisky by the whisky region and the flavors in the tasting notes. And find the flavor that they want based on the region.
+
+##Recommandation System for similar flavor
+![image](https://github.com/franciskoinno/whisky_analysis/assets/77004397/94397880-8e1c-45ac-8cce-b75f8721eb82)
