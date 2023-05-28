@@ -29,7 +29,7 @@ The flavor that got a higher review points: ['fruit', 'honey', 'peat', 'smok', '
 The flavor that got a lower review points: ['malt']<br>
 
 From first graph:<br>
-From the graph above, we can notice that some floral present more frequent in specific region and some less.<br>
+From the graph above, we can notice that some flavors present more frequent in specific region and some less.<br>
 If higher than 0.4, we defined it as frequently present. <br>
 If lower than 0.05, we defined it as rarely present. <br><br>
 Campbeltown: frequent:['fruit','nut','vanilla'] , rare:['deep','floral']<br>
