@@ -15,10 +15,12 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 5. Save as another csv for futher analyze
 
 ## Exploratory Data Analysis
-1. T-test (details refer to jupyter notebbok)
+1. T-test (details refer to jupyter notebbok)<br>
+<img src="https://github.com/franciskoinno/whisky_analysis/assets/77004397/55225771-cccf-4b16-a9ec-b77aa40e1880" width="600" height="400">
+<br>
 2. MANOVA
 3. Find insight by graphical methods
-![image](https://github.com/franciskoinno/whisky_analysis/assets/77004397/55225771-cccf-4b16-a9ec-b77aa40e1880)
+
 ## Visualization
 ![工作表 4](https://github.com/franciskoinno/whisky_analysis/assets/77004397/8c78015b-2dc3-426e-98df-fca82b1fa56c)
 <img src="https://github.com/franciskoinno/whisky_analysis/assets/77004397/d888a1ae-eaa7-42eb-98df-8030d234ac4c" width="600" height="400">
