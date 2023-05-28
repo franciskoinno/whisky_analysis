@@ -28,15 +28,20 @@ From t-test:<br>
 The flavor that got a higher review points: ['fruit', 'honey', 'peat', 'smok', 'citrus', 'raisin', 'deep', 'complex', 'cinnamon', 'caramel', 'pepper', 'leather', 'chocolate']<br>
 The flavor that got a lower review points: ['malt']<br>
 
-From graph:<br>
+From first graph:<br>
 From the graph above, we can notice that some floral present more frequent in specific region and some less.<br>
 If higher than 0.4, we defined it as frequently present. <br>
-If lower than 0.05, we defined it as rarely present. <br>
+If lower than 0.05, we defined it as rarely present. <br><br>
 Campbeltown: frequent:['fruit','nut','vanilla'] , rare:['deep','floral']
 Highland: frequent:['fruit','vanilla'] , rare:['deep']
 Island: frequent:['fruit','peat','smoke','sweet','vanilla'] , rare:['deep',raisin]
 Islay: frequent:['fruit','peat','smoke','sweet'] , rare:['cinnamon','deep','floral']
 Lowland: frequent:['fruit','sweet','vanilla'] , rare:['peat','smoke']
 Speyside: frequent:['fruit'] , rare:[]
+<br><br>
+From second graph:<br>
+Island and Islay got higher review points.
+Lowland is lowest.
 
 ## Insight
+People can have a higher chance to find a more tasty whisky by the whisky region and the flavors in the tasting notes.
