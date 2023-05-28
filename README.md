@@ -30,7 +30,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 ## Findings
 From t-test:<br>
 The flavor that got a higher review points: ['fruit', 'honey', 'peat', 'smok', 'citrus', 'raisin', 'deep', 'complex', 'cinnamon', 'caramel', 'pepper', 'leather', 'chocolate']<br>
-The flavor that got a lower review points: ['malt']<br>
+The flavor that got a lower review points: ['malt']<br><br>
 
 From first graph:<br>
 From the graph above, we can notice that some flavors present more frequent in specific region and some less.<br>
