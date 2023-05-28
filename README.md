@@ -19,7 +19,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 <img src="https://github.com/franciskoinno/whisky_analysis/assets/77004397/55225771-cccf-4b16-a9ec-b77aa40e1880" width="500" height="300">
 <br>
 2. MANOVA<br>
-3. T-SNE
+3. T-SNE<br>
 4. Find insight by graphical methods
 
 ## Visualization
