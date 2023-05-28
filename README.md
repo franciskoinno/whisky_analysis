@@ -16,6 +16,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 
 ## Exploratory Data Analysis
 1. T-test (details refer to jupyter notebbok)
+![image](https://github.com/franciskoinno/whisky_analysis/assets/77004397/55225771-cccf-4b16-a9ec-b77aa40e1880)
 2. MANOVA
 3. Find insight by graphical methods
 
