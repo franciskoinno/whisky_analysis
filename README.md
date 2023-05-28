@@ -44,4 +44,4 @@ Island and Islay got higher review points.<br>
 Lowland is lowest.<br>
 
 ## Insight
-People can have a higher chance to find a more tasty whisky by the whisky region and the flavors in the tasting notes.
+People can have a higher chance to find a more tasty whisky by the whisky region and the flavors in the tasting notes. And find the flavor that they want based on the region.
