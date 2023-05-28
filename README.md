@@ -6,6 +6,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 ## Goals
 1. Find people like which flavors in whisky.
 2. Find how regions affect the taste of whisky
+3. Recommandation System
 
 ## Extract data (details refer to jupyter notebbok)
 1. Read csv by excel to check the information of the data
