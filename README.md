@@ -9,7 +9,7 @@ A data analyst project for whisky. Using python to extract data and do Hypothesi
 
 ## Extract data (details refer to jupyter notebbok)
 1. Read csv by excel to check the information of the data
-2. Extract the distilleries and region of the whisky from its name
+2. Extract the distilleries and region of the whisky from its name reference data in wiki (distilleries info saved as another csv)
 3. Extract the flavor of the whisky from the description
 4. Check any missing or wrong data
 5. Save as another csv for futher analyze
